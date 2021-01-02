@@ -1,2 +1,2 @@
 # RaspberryPI
-Raspberry PI Projects with GPIO Pins using C
+Small Raspberry PI GPIO projects in C.
